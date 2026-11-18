@@ -1,7 +1,4 @@
-# Android Interview Revision -- 8 Years Experience
-
-> Simple English \| Short answers \| Senior Android Developer revision
-> guide
+# Android Interview Revision
 
 ## Index
 
